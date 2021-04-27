@@ -23,4 +23,4 @@ Other endpoints:
 
 Database used is H2 database which uses in-memory storage method to store schema which means the data will be removed from memory when the application goes down.
 
-Data used preloaded using the DataLoader class.
+Data used is preloaded using the DataLoader class.
