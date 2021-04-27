@@ -1,5 +1,5 @@
 # flight-booking-api
-A backend API for flight booking web application
+A backend API for flight booking web application created using Spring Boot.
 
 The two main REST endpoints of this application that provide booking information are as follows:
 
